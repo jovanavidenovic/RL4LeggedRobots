@@ -1,6 +1,6 @@
 <div align="center">
 
-# Reinforcement Learning for Locomotion in Quadruped Robots
+# Reinforcement Learning for <br> Locomotion in Quadruped Robots
 
 Jovana Videnović and Haris Kupinić
 
@@ -27,6 +27,7 @@ To set up the repository locally, follow these steps:
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   pip install .
    ```
 
 ## Running and evaluation
