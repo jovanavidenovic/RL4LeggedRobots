@@ -9,6 +9,7 @@ Faculty of Engineering, University of Porto
 </div>
 
 ## Abstract
+This project explores the application of reinforcement learning for developing agile and adaptive locomotion in quadruped robots. By employing deep reinforcement learning (DRL) techniques, including Proximal Policy Optimization (PPO), and PyBullet simulation framework we trained policies to execute high-speed gaits like galloping and trotting, as well as navigate to specified targets. A hybrid two-stage training approach enabled fine-tuning of policies for challenging terrains, overall achieving up to 1.9x speed improvement over baseline inverse-kinematics based implementations. The results demonstrate the potential of DRL to generalize robust locomotion strategies across varying environments, surpassing traditional heuristic-based methods in speed and adaptability.
 
 ## Installation
 
