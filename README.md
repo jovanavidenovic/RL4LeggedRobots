@@ -2,7 +2,7 @@
 
 # Reinforcement Learning for Locomotion in Quadruped Robots
 
-[Jovana Videnović] and [Haris Kupinić]
+Jovana Videnović and Haris Kupinić
 
 Faculty of Engineering, University of Porto
 
@@ -16,8 +16,8 @@ To set up the repository locally, follow these steps:
 
 1. Clone the repository and navigate to the project directory:
     ```bash
-    git clone https://github.com/jovanavidenovic/DAM4SAM.git
-    cd DAM4SAM
+    git clone https://github.com/jovanavidenovic/RL4LeggedRobots.git
+    cd RL4LeggedRobots
     ```
 2. Create a new conda environment and activate it:
    ```bash
